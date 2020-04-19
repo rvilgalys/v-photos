@@ -1,3 +1,5 @@
 const optimizedImages = require("next-optimized-images");
 
-module.exports = optimizedImages({});
+module.exports = optimizedImages({
+  responsive: { adapter: require("responsive-loader/sharp") },
+});

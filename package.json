@@ -12,10 +12,13 @@
     "next": "9.3.5",
     "next-optimized-images": "^2.5.8",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "react-photo-gallery": "^8.0.0"
   },
   "devDependencies": {
     "postcss-preset-env": "^6.7.0",
+    "responsive-loader": "^1.2.0",
+    "sharp": "^0.25.2",
     "tailwindcss": "^1.2.0"
   }
 }
