@@ -13,6 +13,7 @@
     "next-optimized-images": "^2.5.8",
     "react": "16.13.1",
     "react-dom": "16.13.1",
+    "react-images": "^1.1.7",
     "react-photo-gallery": "^8.0.0"
   },
   "devDependencies": {

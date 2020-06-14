@@ -20,17 +20,14 @@ body {
 }
 
 html {
-  font-family: proxima-nova, sans-serif;
+  font-family: open-sans, sans-serif;
   font-weight: 300;
 }
 
 h1,
 h2 {
-  font-weight: 700;
-}
-
-p {
-  font-family: proxima-nova-condensed, sans-serif;
+  font-weight: 100;
+  font-family: brandon-grotesque, sans-serif;
 }
 
 .react-photo-gallery--gallery {
